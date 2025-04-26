@@ -32,8 +32,8 @@ This mobile application is built using React Native and Expo, providing a cross-
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-app-name.git
-cd your-app-name
+git clone https://github.com/mwendaB/FullstackEcommerce.git
+cd FullstackEcommerce
 ```
 
 2. Install dependencies
